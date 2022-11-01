@@ -7,6 +7,8 @@
 * Praxisnähe
 
 ### Erwartungen an die Vorlesung 
-* Nette Dozenten
 * Nichts
+* Nette, kompetente Dozenten
++ ansprechende Präsentation
+* angemessenes Tempo und Umfang
 
