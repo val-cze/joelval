@@ -1,6 +1,8 @@
 [Contributer](./contributer.md)
 
 ### Erwartungen an das Studium
-* Lernen
 * Nette Leute kennenlernen
+* Viel neues Lernen
+* machbarkeit
+* Praxisnähe
 
