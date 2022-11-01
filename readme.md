@@ -6,3 +6,7 @@
 * machbarkeit
 * Praxisnähe
 
+### Erwartungen an die Vorlesung 
+* Nette Dozenten
+* Nichts
+
