@@ -6,3 +6,7 @@
 * machbarkeit
 * Praxisnähe
 
+### Erwartungen an die Vorlesung
+* Nette, kompetente Dozenten
++ ansprechende Präsentation
+* angemessenes Tempo und Umfang
